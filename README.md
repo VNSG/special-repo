@@ -1,4 +1,4 @@
-# special-repo
+remote
 toto
 pmo
 high
